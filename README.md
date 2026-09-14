@@ -1,3 +1,21 @@
+# Intro to CSS - The Odin Project
+
+A collection of foundational CSS exercises completed as part of The Odin Project curriculum, demonstrating concepts like CSS methods, selectors, grouping, chaining and descendant combinators.
+
+## Key Concepts Practiced
+
+* **CSS Loading Methods:** Implementing inline styles, internal style blocks and external stylesheets.
+* **Class & ID Selectors:** Using class selectors for shared styles and unique IDs for specific element overrides.
+* **Grouping Selectors:** Combining multiple selectors using commas to apply shared CSS rules efficiently (DRY principle).
+* **Chaining Selectors:** Targeting elements that share multiple classes simultaneously for refined styling control.
+* **Descendant Combinators:** Utilizing descendant selectors (`parent child`) to style target elements nested within specific container elements.
+
+---
+
+> Below are the original exercise instructions provided by The Odin Project:
+
+
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
