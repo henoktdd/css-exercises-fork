@@ -1,15 +1,17 @@
 # Intro to CSS - The Odin Project
 
-A collection of foundational CSS exercises completed as part of The Odin Project curriculum, demonstrating core concepts like CSS methods, selectors, grouping, chaining, descendant combinators, and managing the CSS cascade.
+A collection of foundational CSS exercises completed as part of The Odin Project curriculum, demonstrating core concepts like CSS methods, selectors, grouping, chaining, descendant combinators, specificity and box model fundamentals.
 
 ## Key Concepts Practiced
 
-* **CSS Loading Methods:** Implementing inline styles, internal style blocks, and external stylesheets.
+* **CSS Loading Methods:** Implementing inline styles, internal style blocks and external stylesheets.
 * **Class & ID Selectors:** Using class selectors for shared styles and unique IDs for specific element overrides.
 * **Grouping Selectors:** Combining multiple selectors using commas to apply shared CSS rules efficiently (DRY principle).
 * **Chaining Selectors:** Targeting elements that share multiple classes simultaneously for refined styling control.
 * **Descendant Combinators:** Utilizing descendant selectors (`parent child`) to style target elements nested within specific container elements.
-* **Fixing the Cascade & Specificity:** Resolving property conflicts, selector order issues, and specificity calculations (element, class, and ID hierarchy) to achieve expected layout outcomes.
+* **Fixing the Cascade & Specificity:** Resolving property conflicts, selector order issues and specificity calculations (element, class and ID hierarchy) to achieve expected layout outcomes.
+* **Box Model & Spacing:** Managing element dimensions using `margin` for external spacing, `padding` for internal breathing room and `border` properties.
+* **Layout Alignment:** Centering block elements using `margin: auto`, aligning inline content via `text-align`, and managing `display` block behaviors.
 
 ---
 
